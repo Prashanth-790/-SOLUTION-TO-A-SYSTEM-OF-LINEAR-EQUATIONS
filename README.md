@@ -26,7 +26,9 @@ print(result)
 ...
 ## output:
 
-![output](output1.png)
+
+![WhatsApp Image 2024-12-12 at 09 09 56_ca630507](https://github.com/user-attachments/assets/3d2cfb71-7c87-4d7b-a356-06813a2478f6)
+
 ## Result:
 Thus the solution for the linear equation are successfully solved
 using python program
